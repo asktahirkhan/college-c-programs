@@ -1,15 +1,39 @@
-# College C Programming Lab Practicals
+# C Programming Practical Programs
 
-These separate `.c` files were prepared from the uploaded Rizvi College of Engineering C Programming Lab Manual (2026–27).
+This repository contains my C programming practical programs completed as part of my first-year Computer Engineering course at Rizvi College of Engineering.
 
-## Important before submission
-- The files are transcribed/reformatted from the manual; compile and run each one on your Mac before submitting.
-- Capture genuine terminal output screenshots yourself. No output screenshots are included because each program must be run and verified.
-- In Experiment 1(a), replace the sample profile details with your own details before running.
-- The manual's Experiment 5 aim mentions both iterative and recursive Fibonacci, but the supplied code on the manual pages implements the recursive method only.
-- Experiment 4's aim mentions functions, but the supplied code in the manual does not define a separate prime-checking function.
-- The Experiment 7 index page says “second largest” in one place, while the detailed task and supplied code say “largest”; this file follows the detailed task/code.
-- Experiment 7 matrix code has been formatted to print each result row on a separate line. Check it against your instructor's preferred output layout.
+## Experiments
 
-## Folder layout
-Each experiment has its own folder. Upload the whole set to one GitHub repository, or upload each experiment folder separately.
+The repository is organised into 11 experiments:
+
+- Experiment 01
+- Experiment 02
+- Experiment 03
+- Experiment 04
+- Experiment 05
+- Experiment 06
+- Experiment 07
+- Experiment 08
+- Experiment 09
+- Experiment 10
+- Experiment 11
+
+## Language Used
+
+- C Programming
+
+## Tools Used
+
+- Visual Studio Code
+- GCC Compiler
+- GitHub
+
+## Purpose
+
+The purpose of this repository is to maintain and organise my C programming practical work and keep track of my learning throughout the course.
+
+---
+
+**Course:** Computer Engineering  
+**College:** Rizvi College of Engineering  
+**University:** Mumbai University
